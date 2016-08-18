@@ -1,0 +1,17 @@
+{
+    "name": "imfellenglish-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Igino Marini"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/imfellenglish-bower.git"
+    },
+    "description": "IM Fell English font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
